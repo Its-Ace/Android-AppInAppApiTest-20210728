@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProductGet</string>
+<!-- For the sake of products Json-->
+    <string name="product_name">@null</string>
+    <string name="product_quantity">@null</string>
+    <string name="product_name_view">Product Name</string>
+    <string name="product_price_view">Product Price</string>
+    <string name="categoery_view">Categoery</string>
+    <string name="supplier_id_view">Supplier Id</string>
+
+</resources>
